@@ -1,0 +1,2 @@
+# SimpleMenuSettings
+ a simple settings
